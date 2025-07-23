@@ -9,7 +9,7 @@ int main() {// Main function where the program execution starts
 
     return 0;//คืนค่า 0 เพื่อบอกว่าโปรแกรมทำงานสำเร็จ
 }
-//
+
   
 
      
